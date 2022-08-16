@@ -20,6 +20,6 @@ Passos
 - Executar comando npm install para instalar as dependências.
 - Executar comando node desafio01.js para rodar o programa.
 - Inserir um número inteiro.
-Será exibido resultado conforme as especificações do desafio.
+- Será exibido resultado conforme as especificações do desafio.
 
 ----
